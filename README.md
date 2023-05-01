@@ -1,2 +1,6 @@
-# ProjetoC209
-Repositório criado para armazenar o trabalho do laboratório de C209
+### Para rodar
+```
+git clone https://github.com/MathCarv/ProjetoC209
+pip3 install -r requirements.txt
+python3 capturaTela.py
+```
