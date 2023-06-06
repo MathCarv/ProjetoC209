@@ -1,9 +1,12 @@
 ### Introdução
-
+```
 Projeto 01: Captura de tela para detecção de expressões faciais
+```
+```
 Projeto 02: Contagem de objetos em uma imagem
+```
 
-## Clone o repositório
+### Clone o repositório
 ```
 git clone https://github.com/MathCarv/ProjetoC209
 ```
